@@ -1,0 +1,24 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Alucard",
+      "abilities": "Jump"
+    },
+    {
+      "id": 2,
+      "name": "Lancelot",
+      "abilities": "Run"
+    },
+    {
+      "id": 3,
+      "name": "Kadita",
+      "abilities": "Teleport"
+    },
+    {
+      "id": 4,
+      "name": "Borg",
+      "abilities": "Android"
+    }
+  ]
+}
